@@ -3,9 +3,11 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://onetn.github.io/about/
+    url: /about/
   - title: "Archive"
-    url: https://onetn.github.io/archive/
+    url: /archive/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
